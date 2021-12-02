@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include "day2.cpp"
 
 using namespace std;
 
