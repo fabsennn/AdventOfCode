@@ -20,7 +20,7 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day1.cpp">
+    <ClCompile Include="aoc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
